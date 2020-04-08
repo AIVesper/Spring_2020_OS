@@ -4,4 +4,4 @@ This course offers an introduction to the concepts and principles in modern oper
 
 ### The purpose of this repository
 
-Backup my homework and code.
+Backup my homeworks and codes.
